@@ -15,7 +15,7 @@ algorithms such as `gcpjwt.SigningMethodKMSRS256.Override()` and `gcpjwt.Signing
 Example:
 
 	import (
-		"github.com/someone1/gcp-jwt-go"
+		"github.com/csmadhu/gcp-jwt-go"
 	)
 
 	func init() {
