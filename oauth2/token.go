@@ -11,7 +11,7 @@ import (
 	"github.com/golang-jwt/jwt"
 	"golang.org/x/oauth2"
 
-	gcpjwt "github.com/csmadhu/gcp-jwt-go/v1"
+	gcpjwt "github.com/csmadhu/gcp-jwt-go"
 )
 
 // JWTAccessTokenSource returns a TokenSource that uses the IAM API to sign tokens.
