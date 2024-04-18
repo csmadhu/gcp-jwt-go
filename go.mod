@@ -1,4 +1,4 @@
-module github.com/csmadhu/gcp-jwt-go/v1
+module github.com/csmadhu/gcp-jwt-go
 
 go 1.22
 
